@@ -14,9 +14,9 @@ This **HR Analytics Dashboard** provides key insights into employee attrition, d
 - **Interactive Department Filters**
 
 ## 🖼️ Screenshot
-![HR Analytics Dashboard](
+HR Analytics Dashboard
 ![Screenshot 2025-03-23 210443](https://github.com/user-attachments/assets/fade8f14-dc4c-4994-bdd7-9dc1f671f6e0)
-)
+
 ## 📂 Installation & Usage
 1. Download the `.pbix` Power BI file from the repository.
 2. Open it with Power BI Desktop.
